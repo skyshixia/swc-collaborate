@@ -1,5 +1,5 @@
 Simple text document
 with a few lines
-of text and a type (shia)
+of text and a typo (shia)
 
 Done.
